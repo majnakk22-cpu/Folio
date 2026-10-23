@@ -1,0 +1,23 @@
+{
+  "folio.gui.tabs_up": "Tabs up",
+  "folio.gui.tabs_down": "Tabs down",
+  "folio.gui.contents": "Contents",
+  "folio.gui.prev": "Previous page",
+  "folio.gui.next": "Next page",
+  "folio.gui.back": "Back",
+  "folio.gui.continue": "Continue reading",
+  "folio.gui.section_up": "To section",
+  "folio.gui.page": "Pages %s-%s of %s",
+  "folio.gui.chapters": "Chapters: %s",
+  "folio.gui.progress": "Read: %s of %s",
+  "folio.gui.goto": "Go to: %s",
+  "folio.gui.sections_title": "Sections",
+  "folio.gui.chapters_title": "Chapters",
+  "folio.journal.all": "All entries",
+  "folio.journal.unknown": "???",
+  "folio.journal.locked": "This entry is still locked. Explore the world to unlock it.",
+  "folio.journal.empty": "Nothing here yet.",
+  "folio.journal.page": "Page %s of %s",
+  "folio.journal.progress": "Unlocked: %s of %s",
+  "folio.journal.new": "New journal entry: %s"
+}

@@ -1,0 +1,23 @@
+{
+  "folio.gui.tabs_up": "Закладки выше",
+  "folio.gui.tabs_down": "Закладки ниже",
+  "folio.gui.contents": "Оглавление",
+  "folio.gui.prev": "Предыдущая страница",
+  "folio.gui.next": "Следующая страница",
+  "folio.gui.back": "Назад",
+  "folio.gui.continue": "Продолжить чтение",
+  "folio.gui.section_up": "К разделу",
+  "folio.gui.page": "Стр. %s–%s из %s",
+  "folio.gui.chapters": "Глав: %s",
+  "folio.gui.progress": "Прочитано: %s из %s",
+  "folio.gui.goto": "Перейти: %s",
+  "folio.gui.sections_title": "Разделы",
+  "folio.gui.chapters_title": "Главы",
+  "folio.journal.all": "Все записи",
+  "folio.journal.unknown": "???",
+  "folio.journal.locked": "Запись пока закрыта. Исследуйте мир, чтобы открыть её.",
+  "folio.journal.empty": "Здесь пока пусто.",
+  "folio.journal.page": "Стр. %s из %s",
+  "folio.journal.progress": "Открыто: %s из %s",
+  "folio.journal.new": "Новая запись в журнале: %s"
+}
